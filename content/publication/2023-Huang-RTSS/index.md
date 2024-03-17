@@ -1,0 +1,37 @@
+---
+title: "RTailor: Parameterizing Soft Error Resilience for Mixed-Criticality Real-Time Systems"
+date: 2023-10-25
+publishDate: 2023-10-25
+authors: ["Shaoyu Huang", "Jianping Zeng", "Xuanliang Deng", "**Sen Wang**", "Ashrarul H Sifat", "Burhanuddin Bharmal", "Burhanuddin Bharmal", "Jiabin Huang", "Ryan Williams", "Haibo Zeng", "Changhee Jung"]
+publication_types: ["1"]
+abstract: "Equipping real-time systems with soft error resilience can be challenging
+		due to the tradeoff of the timing and failure requirements for
+		mixed-criticality tasks.  Violation of these requirements yields failed
+		task scheduling in one way or another.  However, not every task
+		requires the same degree of soft error resilience. For example,
+		low-criticality tasks can run with low or even no soft error resilience,
+		whereas mid- or high-criticality tasks may require relatively high
+		resilience depending on their inherent failure requirement. Unfortunately,
+		existing soft error resilience schemes do not have the ability to control
+		the degree of their resilience in a fine-grained way, i.e., they can only
+		be turned on or off as a whole during task execution. 
+		To this end, this paper presents Resilience Tailor, a
+		compiler-directed parameterized soft error resilience scheme that achieves
+		the desired level of soft error protection according to the demand of each
+		task. The key idea is that for a given protection ratio, compilers can
+		transform a hot loop such that the number of its iterations protected over
+		the total iterations matches the ratio.  
+		Compared to full resilience protecting every iteration, RTailor's
+		parameterized soft error resilience significantly reduces the performance
+		overhead of tasks, thereby improving their real-time schedulability.  The
+		experimental results highlight that for four representative fault rates,
+		RTailor achieves 15 to 21 percentage average schedulability improvements over the
+		state-of-the-art work that lacks parameterized soft error resilience."
+featured: true
+publication: "2023 Real-Time Systems Symposium (**RTSS**)"
+links:
+  - icon_pack: fas
+    icon: scroll
+    name: Link
+    url: 'https://www.computer.org/csdl/proceedings-article/rtss/2023/285700a344/1UjIkcw3EwU'
+---
