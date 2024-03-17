@@ -1,6 +1,6 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: custom_font
+  font: minimal
   font_size: L
 
 # SEO
@@ -18,11 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Personal page'
-    twitter: ''
+    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
@@ -36,19 +38,19 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: false
+    show_search: true
     highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Sen Wang. This work is licensed under {license}.'
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
-      allow_derivatives: true
+      allow_derivatives: false
       share_alike: true
-      allow_commercial: true
+      allow_commercial: false
 
 # Localization
 
@@ -63,25 +65,24 @@ features:
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
-    #theme_light: igor
-    #theme_dark: nord
-    enable: true
-    extra_languages:
-      - r
-      - latex
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/zephyr06/zephyr06.github.io'
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: 'giscus'
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
     giscus:
       repo: ''
       repo_id: ''
@@ -95,7 +96,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
@@ -113,16 +114,3 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
-
-plugins_css: ["custom","codefolding"]
-
-############################
-## Code folding
-############################
-
-# Set to true to disable code folding
-disable_codefolding: false
-# Set to show to show all by default, hide to hide all by default - don't put inside quotes
-codefolding_show: show
-# Set to true to exclude the "Show/hide all" button
-codefolding_nobutton: false
