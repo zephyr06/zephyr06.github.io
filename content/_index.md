@@ -189,7 +189,10 @@ sections:
     content:
       title: Services
       subtitle: 
-      text: <p>Reviewer for RA-L (2022), ICRA (2023), Journal of System Architecture (2024)</p>
+      text: <p>Reviewer for the following journals and conferences:</p>
+        <u1><li>International Conference on Robotics and Automation (ICRA)</li></u1>
+        <u1><li>Journal of System Architecture</li></u1>
+        <u1><li>ACM Transactions on Embedded Computing Systems</li></u1>
     design:
       columns: '2'
 
