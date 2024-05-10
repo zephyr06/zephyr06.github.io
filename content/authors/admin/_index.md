@@ -30,6 +30,7 @@ interests:
   - Robotics
   - Real-Time System
   - Machine Learning System
+  - Computer Architecture
 
 # Education to show in About widget
 education:
