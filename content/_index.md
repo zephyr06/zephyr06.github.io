@@ -119,7 +119,7 @@ sections:
     id: Publications
     content:
       title: <h>Selected Publications</h> 
-      text: See full list of the publication at [Google Scholar](https://scholar.google.com/citations?user=axGVXwcAAAAJ&hl=en).<p></p><p></p>
+      text: See the latest full list of the publication at [Google Scholar](https://scholar.google.com/citations?user=axGVXwcAAAAJ&hl=en).<p></p><p></p>
       folders:
         - publication
       count: 3
