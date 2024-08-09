@@ -121,5 +121,5 @@ highlight_name: true
 
 I’m a Computer Engineering Ph.D. student at Virginia Tech, working with Prof. [Haibo Zeng](https://www.faculty.ece.vt.edu/zeng/). Prior to joining Virginia Tech, I got my M.S. in ECE with Prof. [Frank Dellaert](https://dellaert.github.io/) at Georgia Tech, a bachelor’s degree in Automation Engineering from Northeastern University in China.
 
-Everything can be optimized! In my research, I utilize math to optimize robot, machine learning, and real-time systems. My previous experiences range from high-level applications (robotics, autonomous driving, ML) to low-level operating systems (OS, scheduling, system design). I'm also interested with data-centric and trustworthy ML.
+Everything can be optimized! In my research, I utilize math to optimize robot, machine learning, and real-time systems. My previous experiences range from high-level applications (robotics, autonomous driving, ML) to low-level operating systems (OS, scheduling, system design) and computer architecture. I'm also interested with data-centric and trustworthy ML.
 {style="text-align: justify;"}
