@@ -193,6 +193,7 @@ sections:
         <u1><li>International Conference on Robotics and Automation (ICRA)</li></u1>
         <u1><li>Journal of System Architecture</li></u1>
         <u1><li>ACM Transactions on Embedded Computing Systems</li></u1>
+        <u1><li>Workshop on OPtimization for Embedded and ReAl-time systems (OPERA) co-located with the 45th IEEE Real-Time Systems Symposium (RTSS)</li></u1>
     design:
       columns: '2'
 
