@@ -43,7 +43,7 @@ education:
       year: 2020
     - course: BSc in Automation Engineering
       institution: Northeastern University
-      year: 2014
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -121,5 +121,7 @@ highlight_name: true
 
 I’m a Computer Engineering Ph.D. student at Virginia Tech, working with Prof. [Haibo Zeng](https://www.faculty.ece.vt.edu/zeng/) and Prof. [Ryan Williams](https://ece.vt.edu/people/profile/williams.html). Prior to joining Virginia Tech, I got my M.S. in ECE with Prof. [Frank Dellaert](https://dellaert.github.io/) at Georgia Tech, a bachelor’s degree in Automation Engineering from Northeastern University in China.
 
-Everything can be optimized! In my research, I utilize math to optimize robots, machine learning, and real-time systems. My previous experiences range from high-level applications (robotics, autonomous driving, ML) to low-level operating systems (OS, scheduling, system design) and computer architecture. Besides, I'm also interested with data-centric and trustworthy ML, computer architecture, and distributed systems.
+Everything can be optimized! In my research, I utilize math to optimize robots, real-time systems, and machine learning. My previous experiences range from high-level applications (robotics, autonomous driving, ML) to low-level operating systems (OS, scheduling, system design) and computer architecture. My other research interests include data-centric and trustworthy ML, and distributed systems.
+
+I'm going to join Google-YouTube after graduation in 2025. Before it, I had a wonderful internship at Qualcomm in San Diego.
 {style="text-align: justify;"}
