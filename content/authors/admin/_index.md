@@ -123,5 +123,5 @@ I’m a Computer Engineering Ph.D. student at Virginia Tech, working with Prof. 
 
 Everything can be optimized! In my research, I utilize math to optimize robots, real-time systems, and machine learning. My previous experiences range from high-level applications (robotics, autonomous driving, ML) to low-level operating systems (OS, scheduling, system design) and computer architecture. My other research interests include data-centric and trustworthy ML, and distributed systems.
 
-I'm going to join Google-YouTube after graduation in 2025. Before it, I had a wonderful internship at Qualcomm in San Diego in 2024 summer.
+I'm going to join Google after graduation in 2025. Before it, I had a wonderful internship at Qualcomm in San Diego in 2024 summer.
 {style="text-align: justify;"}
