@@ -20,7 +20,7 @@ The algorithms leverage the linearizability of communication patterns and utiliz
 The framework supports optimizing multiple performance metrics and guarantees bounded suboptimality when optimizing end-to-end latency.
 Experimental results show that our optimization algorithms improve upon the default LET and its existing extensions and significantly outperform implicit communication and DBP in terms of various metrics, such as end-to-end latency, time disparity, and its jitter."
 featured: true
-publication: "2024 IEEE 30th Real-Time and Embedded Technology and Applications Symposium (**RTAS**), accepted"
+publication: "2024 IEEE 30th Real-Time and Embedded Technology and Applications Symposium (**RTAS**)"
 links:
   - icon_pack: fas
     icon: scroll
