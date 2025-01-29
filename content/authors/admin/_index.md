@@ -37,7 +37,7 @@ education:
   courses:
     - course: PhD in Computer Engineering
       institution: Virginia Tech
-      year: 2025 (Expected)
+      year: 2025
     - course: M.S. in Electrical and Computer Engineering
       institution: Georgia Institute of Technology
       year: 2020
@@ -119,9 +119,9 @@ social:
 highlight_name: true
 ---
 
-I’m a Computer Engineering Ph.D. student at Virginia Tech, working with Prof. [Haibo Zeng](https://www.faculty.ece.vt.edu/zeng/) and Prof. [Ryan Williams](https://ece.vt.edu/people/profile/williams.html). Prior to joining Virginia Tech, I got my M.S. in ECE with Prof. [Frank Dellaert](https://dellaert.github.io/) at Georgia Tech, a bachelor’s degree in Automation Engineering from Northeastern University in China.
+I’m a obtained my Ph.D. degree in Computer Engineering at Virginia Tech, working with Prof. [Haibo Zeng](https://www.faculty.ece.vt.edu/zeng/) and Prof. [Ryan Williams](https://ece.vt.edu/people/profile/williams.html). Prior to joining Virginia Tech, I got my M.S. in ECE with Prof. [Frank Dellaert](https://dellaert.github.io/) at Georgia Tech, a bachelor’s degree in Automation Engineering from Northeastern University in China.
 
-Everything can be optimized! In my research, I utilize math to optimize robots, real-time systems, and machine learning. My previous experiences range from high-level applications (robotics, autonomous driving, ML) to low-level operating systems (OS, scheduling, system design) and computer architecture. My other research interests include data-centric and trustworthy ML, and distributed systems.
+Everything can be optimized! In my research, I utilize math to optimize robots, real-time systems, and machine learning. My previous experiences range from high-level applications (robotics, autonomous driving, machine learning) to low-level systems (OS, scheduling, system design) and computer architecture. My other research interests include data-centric and trustworthy ML, and distributed systems.
 
 I'm going to join Google after graduation in 2025. Before it, I had a wonderful internship at Qualcomm in San Diego in 2024 summer.
 {style="text-align: justify;"}
