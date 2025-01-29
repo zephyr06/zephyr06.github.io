@@ -119,9 +119,9 @@ social:
 highlight_name: true
 ---
 
-I’m a obtained my Ph.D. degree in Computer Engineering at Virginia Tech, working with Prof. [Haibo Zeng](https://www.faculty.ece.vt.edu/zeng/) and Prof. [Ryan Williams](https://ece.vt.edu/people/profile/williams.html). Prior to joining Virginia Tech, I got my M.S. in ECE with Prof. [Frank Dellaert](https://dellaert.github.io/) at Georgia Tech, a bachelor’s degree in Automation Engineering from Northeastern University in China.
+I obtained my Ph.D. degree in Computer Engineering at Virginia Tech, working with Prof. [Haibo Zeng](https://www.faculty.ece.vt.edu/zeng/) and Prof. [Ryan Williams](https://ece.vt.edu/people/profile/williams.html). Before it, I got my M.S. in ECE with Prof. [Frank Dellaert](https://dellaert.github.io/) at Georgia Tech, and my bachelor’s degree in Automation Engineering from Northeastern University in China.
 
 Everything can be optimized! In my research, I utilize math to optimize robots, real-time systems, and machine learning. My previous experiences range from high-level applications (robotics, autonomous driving, machine learning) to low-level systems (OS, scheduling, system design) and computer architecture. My other research interests include data-centric and trustworthy ML, and distributed systems.
 
-I'm going to join Google after graduation in 2025. Before it, I had a wonderful internship at Qualcomm in San Diego in 2024 summer.
+I'm going to join Google after graduation in 2025. I also had a wonderful internship at Qualcomm in San Diego in 2024 summer.
 {style="text-align: justify;"}
