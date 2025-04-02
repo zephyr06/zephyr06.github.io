@@ -194,6 +194,8 @@ sections:
         <u1><li>Journal of System Architecture</li></u1>
         <u1><li>ACM Transactions on Embedded Computing Systems</li></u1>
         <u1><li>The Journal of Supercomputing</li></u1>
+        <u1><li>Internet Of Things</li></u1>
+        <u1><li>IEE Embedded Systems Letters</li></u1>
         <u1><li>Workshop on OPtimization for Embedded and ReAl-time systems (OPERA) co-located with the 45th IEEE Real-Time Systems Symposium (RTSS)</li></u1>
     design:
       columns: '2'
